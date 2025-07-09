@@ -48,4 +48,10 @@ This project aligns with the goals of **Green AI** by:
 
 ## 👤 Author
 
+**Siddhi Mahajan**  🔗 [GitHub](https://github.com/SiddhiMahajan594)
+
+**Parth Lohia**  🔗 [GitHub](https://github.com/lohiaparth)
+
+**Ayush Kothari**  🔗 [GitHub](https://github.com/ayushkothariii)
+
 ---
